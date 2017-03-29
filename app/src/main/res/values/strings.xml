@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">RTMviajerosTI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Usuario">Usuario :</string>
+    <string name="Contraseña">Contraseña :</string>
+    <string name="BtnIngreso">Ingresar</string>
+    <string name="btnPedidos">Pedidos</string>
+    <string name="btnClientes">Clientes</string>
+    <string name="salir">Salir</string>
+    <string name="registrar">Registrar</string>
+
+
+    <string name="no_books">No Books Yet</string>
+    <string name="edit_book_title">Task Book - Edit</string>
+    <string name="menu_insert">Add Book</string>
+    <string name="menu_delete">Delete Book</string>
+    <string name="menu_settings">Host Settings</string>
+    <string name="title">Title</string>
+    <string name="isbn">Isbn</string>
+    <string name="confirm">Save</string>
+    <string name="edit_book">Edit Book</string>
+
+    <!-- Toasts -->
+    <string name="book_saved_message">Book has been saved</string>
+
+    <!-- Preferences -->
+    <string name="pref_category_defaults_key">default_category</string>
+    <string name="pref_host_key">jaxrs_library_host</string>
+    <string name="pref_host_title">Host</string>
+    <string name="pref_host_default">190.40.132.109</string>
+    <string name="pref_port_key">jaxrs_library_port</string>
+    <string name="pref_port_title">Port</string>
+    <string name="pref_port_default">8080</string>
+
+
+    <string name="home_item">Inicio</string>
+    <string name="buscar_cliente">Buscar</string>
+    <string name="cart_item">Carrito</string>
+    <string name="orders_item">Ordenes</string>
+    <string name="invoices_item">Facturas</string>
+    <string name="log_out_item">Cerrar Sesión</string>
+    <string name="settings_item">Configuración</string>
+    <string name="email_navdrawer">sistemas@tecnimotors.com</string>
+    <string name="name_navdrawer">Sistemas</string>
+
+    <!--hint-->
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="clientes">Clientes</string>
+    <string name="nombre">Nombre</string>
+    <string name="almacen">Almacen</string>
+    <string name="buscar">Buscar</string>
+    <string name="precios">Precios</string>
+    <string name="correo">Correo</string>
+
+    <string name="img_login">Imagen Login</string>
+
+</resources>
