@@ -12,9 +12,9 @@ import rtm.com.sysendpoint.Utils.GeneralError;
 
 public class AS400RestAdapter {
     protected final String TAG = getClass().getSimpleName();
-    protected RestAdapter mRestAdapter;
-    protected AS400ApiServices mApi;
-    static final String WEATHER_URL="http://190.116.7.136:8080/WebServicesAS400/1.0";
+    private RestAdapter mRestAdapter;
+    private AS400ApiServices mApi;
+    private static final String WEATHER_URL = "http://190.116.7.136:8080/WebServicesAS400/1.0";
 
     public AS400RestAdapter() {
         mRestAdapter = new RestAdapter.Builder()

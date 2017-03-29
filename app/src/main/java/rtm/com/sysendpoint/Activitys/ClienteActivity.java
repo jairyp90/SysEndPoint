@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import rtm.com.sysendpoint.Fragmentos.ClienteBuscarFragment;
+import rtm.com.sysendpoint.R;
 
 
 public class ClienteActivity extends AppCompatActivity {
